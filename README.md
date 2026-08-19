@@ -12,7 +12,7 @@ This project demonstrates the assembly of a handheld retro video game device whi
 <h2>Assembled Device Photos</h2>
 
 <p>
-
+<img width="3024" height="3024" alt="20260815_155216" src="https://github.com/user-attachments/assets/d85413bc-bc07-499a-a8fa-08b959ffdc66" />
 </p>
 
 
