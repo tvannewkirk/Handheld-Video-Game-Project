@@ -1,5 +1,5 @@
 # Handheld Video Game Project
-This project demonstrates the creation of a handheld retro video game device which can play games such as Tetris.
+This project demonstrates the assembly of a handheld retro video game device which can play games such as Tetris.
 
 <h2>Tools Used</h2>
 
@@ -8,11 +8,6 @@ This project demonstrates the creation of a handheld retro video game device whi
 - <b>Remote Desktop</b>
 - <b>Powershell</b>
 
-
-<h2>Operating Systems Used</h2>
-
-- <b>Windows Server 2022</b>
-- <b>Windows 10 Enterprise</b>
 
 <h2>Deployment and Configuration Steps</h2>
 
