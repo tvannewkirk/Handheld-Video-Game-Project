@@ -3,8 +3,8 @@ This project demonstrates the assembly of a handheld retro video game device whi
 
 <h2>Tools Used</h2>
 
-- <b>Soldering iron</b>
-- <b>0.8 mm lead-free solder</b>
+- <b>WEP Soldering iron</b>
+- <b>0.8 mm lead-free solder wire</b>
 - <b>Tweezers</b>
 - <b>Wire Strippers</b>
 - <b>Desoldering pump/braid</b>
