@@ -15,6 +15,9 @@ This project demonstrates the assembly of a handheld retro video game device whi
 <img width="3024" height="3024" alt="20260815_155216" src="https://github.com/user-attachments/assets/d85413bc-bc07-499a-a8fa-08b959ffdc66" />
 </p>
 
+<p>
+<img width="3024" height="3024" alt="20260815_154449" src="https://github.com/user-attachments/assets/c56a7f32-63af-4265-83d2-364d82bbd5fc" />
+</p>
 
 
 
