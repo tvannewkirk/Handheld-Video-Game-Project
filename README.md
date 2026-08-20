@@ -9,6 +9,7 @@ This project demonstrates the assembly of a handheld retro video game device whi
 - <b>Wire Strippers</b>
 - <b>Desoldering pump/braid</b>
 - <b>Flux</b>
+- <b>AA batteries</b>
 
 
 <h2>Assembled Device Photos</h2>
